@@ -1,0 +1,202 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.nav{font-size: 17px;
+    font-weight: 900;
+    display: flex;
+align-items: center;
+justify-content: space-around;
+text-transform: capitalize;
+}
+
+
+.nav img{
+    height: 50px;
+}
+.nav ul {display: flex;
+    gap: 40px;
+
+}
+.nav button{
+    padding: 6px 12px;
+border: 2px solid green;
+border-radius: 30px;
+}
+.homepage{
+    margin-top: 200px;
+    margin-left: 100px;
+   
+}
+.homepage{
+    display: flex;
+    justify-content:center;
+    gap: 200px;
+}
+
+
+.homepage h1{    margin-top: 16px;
+    font-size: 34px;
+    width: 293px;
+    margin-bottom: 22px
+
+}
+.homepage .home1{}
+
+.homepage h5  span{color: green;
+
+}
+.homepage h1  span{
+    color: green;
+}
+
+.homepage p{
+    width: 378px;
+}
+
+.homepage .home2 img{height: 5 00px;
+width: }
+.homepage button{ 
+       padding: 5px 12px;
+    border: 2px solid green;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+.aboutus{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.aboutus .about1 img{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid green;
+    
+}
+.aboutus .about2 p{
+    width: 500px;
+    margin-top: 20px;
+
+}
+.aboutus .about2 button{ 
+    padding: 5px 12px;
+ border: 2px solid green;
+ border-radius: 30px;
+ margin-top: 30px;
+}
+.product{
+    text-align: center; 
+    margin-top: 100px;
+}
+.product p{
+    width: 600px;
+    margin-left: 385px;
+    margin-top: 20px;
+}
+
+
+
+.pro1 {
+    border: 1px solid lightgreen;
+    border-radius: 10px; 
+    width: 200px;
+   
+
+}
+
+.pro1 img{ height: 250px;
+    width: 200px;}
+
+
+    .pro11{
+        .pro1 {
+            border: 1px solid lightgreen;
+            border-radius: 10px; 
+            width: 200px;
+            margin
+           
+        
+        }
+        
+        .pro11 img{ height: 250px;
+            width: 200px;}
+    }
+.pro2 {
+    border: 1px solid lightgreen;
+    border-radius: 10px;
+    width: 200px;
+    
+
+}
+.pro2 img{height: 250px;
+    width: 200px;}
+
+    .pro3{
+        border: 1px solid lightgreen;
+        border-radius: 10px;
+        width: 200px;
+        
+    
+    }
+    .pro3 img{height: 250px;
+        width: 200px;}
+
+        .pro4{
+            border: 1px solid lightgreen;
+            border-radius: 10px;
+            width: 200px;
+            
+        
+        }
+        .pro4 img{height: 250px;
+            width: 200px;}
+            
+        .pro5{
+            border: 1px solid lightgreen;
+            border-radius: 10px;
+            width: 200px;
+            
+        
+        }
+        .pro5 img{height: 250px;
+            width: 200px;}
+
+            .pro6{
+                border: 1px solid lightgreen;
+                border-radius: 10px;
+                width: 200px;
+                
+            
+            }
+            .pro6 img{height: 250px;
+                width: 200px;}
+                main{
+                    display: flex;
+                    gap: 10px;
+                    margin-left: 250px;
+                    margin-top: 50px;
+                }
+
+                .div{
+                    margin-left: 598px;
+                    border: 1px solid green;
+                    width: 107px;
+                    padding: 5px 21px;
+                    border-radius: 19px;
+                    position: relative;
+                    margin-top: 100px;
+                }
+                .div div{height: 15px;
+                width: 15px;
+            border-radius: 50%;
+        background-color: green;
+    position: absolute;
+top: 7px;
+left: 130px;}
